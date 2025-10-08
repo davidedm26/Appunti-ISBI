@@ -93,3 +93,5 @@ Lo schema SCOR è in particolare articolato su successivi livelli di dettaglio:
 - Configuration level
 - Process element level
 - Implementation level (best practices)
+
+### Pro
