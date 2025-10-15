@@ -1,0 +1,99 @@
+# Balanced Scorecard (BSC), SCOR DS ed eTOM: Collegamenti e Applicazioni
+
+In questa lezione esploreremo come collegare tre strumenti fondamentali per migliorare le performance aziendali: la Balanced Scorecard (BSC), il modello SCOR DS e il framework eTOM. L’obiettivo è capire come passare da “cosa misurare” a “come migliorare” in modo pratico e chiaro.
+
+---
+
+## Balanced Scorecard (BSC)
+
+### Cos’è la Balanced Scorecard?
+
+La Balanced Scorecard è uno strumento di gestione che aiuta le aziende a tradurre la loro strategia in azioni concrete. È stata creata per bilanciare gli indicatori finanziari (che guardano al passato) con quelli non finanziari (che guardano al futuro). In altre parole, non basta concentrarsi solo sui profitti: bisogna anche migliorare clienti, processi e competenze.
+
+**Perché è utile?**
+- Aiuta a creare un linguaggio comune in azienda.
+- Evita di concentrarsi solo sui risultati a breve termine.
+- Fornisce una visione completa delle performance aziendali.
+
+### Le Quattro Prospettive della BSC
+
+La BSC si basa su quattro aree principali:
+
+1. **Finanziaria**: Misura i risultati economici, come crescita dei ricavi e margini di profitto.
+2. **Clienti**: Valuta la soddisfazione e la fedeltà dei clienti.
+3. **Processi Interni**: Analizza l’efficienza dei processi aziendali, come la qualità e i tempi di consegna.
+4. **Apprendimento e Crescita**: Si concentra sulle persone, le competenze e la tecnologia necessarie per migliorare.
+
+**Esempio pratico:**
+Immagina di voler migliorare la puntualità delle consegne. Questo richiede:
+- Formare il personale (Apprendimento e Crescita).
+- Ottimizzare i processi di spedizione (Processi Interni).
+- Offrire un servizio migliore ai clienti (Clienti).
+- Aumentare i ricavi grazie alla soddisfazione dei clienti (Finanziaria).
+
+---
+
+## SCOR DS: Migliorare la Supply Chain
+
+### Cos’è SCOR DS?
+
+SCOR DS è un modello che aiuta le aziende a gestire e migliorare la supply chain, cioè tutto il processo che va dalla produzione alla consegna di un prodotto. Questo modello fornisce linee guida per:
+- Pianificare.
+- Ordinare.
+- Produrre.
+- Consegnare.
+- Gestire i resi.
+
+**Perché usarlo?**
+- Collega la strategia aziendale ai processi operativi.
+- Aiuta a identificare i punti deboli nella supply chain.
+- Fornisce indicatori standard per misurare le performance.
+
+### I Sette Processi Principali
+
+1. **Orchestrate**: Gestione della governance e dei rischi.
+2. **Plan**: Pianificazione delle attività.
+3. **Order**: Gestione degli ordini.
+4. **Source**: Acquisto e approvvigionamento.
+5. **Transform**: Produzione e assemblaggio.
+6. **Fulfill**: Consegna dei prodotti.
+7. **Return**: Gestione dei resi e delle riparazioni.
+
+**Esempio pratico:**
+Se un cliente riceve un prodotto in ritardo, potresti scoprire che il problema è nella fase di approvvigionamento (Source) o nella consegna (Fulfill). SCOR ti aiuta a individuare e risolvere questi problemi.
+
+---
+
+## eTOM: Il Framework per il Settore Telco
+
+### Cos’è eTOM?
+
+eTOM è un modello specifico per le aziende di telecomunicazioni. Aiuta a gestire i processi legati ai servizi digitali, come l’attivazione di una linea telefonica o la fatturazione.
+
+**Aree principali:**
+1. **Strategy, Infrastructure & Product (SIP)**: Definizione dell’offerta e gestione delle infrastrutture.
+2. **Operations (OPS)**: Gestione delle operazioni, come attivazione e manutenzione dei servizi.
+3. **Enterprise Management**: Supporto alle funzioni aziendali, come finanza e risorse umane.
+
+**Esempio pratico:**
+Se un cliente si lamenta di un ritardo nell’attivazione di un servizio, eTOM ti aiuta a capire se il problema è nella fase di attivazione (Fulfillment) o nella gestione delle risorse.
+
+---
+
+## Collegare BSC, SCOR ed eTOM
+
+### Come Funzionano Insieme?
+
+- **BSC** ti aiuta a definire gli obiettivi strategici.
+- **SCOR** ti guida nella gestione della supply chain fisica.
+- **eTOM** si concentra sui processi di servizio per i clienti.
+
+**Esempio pratico:**
+Per migliorare l’installazione di un modem:
+- Usa SCOR per garantire che il modem sia disponibile in magazzino.
+- Usa eTOM per coordinare l’attivazione del servizio.
+- Usa BSC per monitorare i risultati e assicurarti che siano in linea con gli obiettivi aziendali.
+
+---
+
+Con questi strumenti, puoi collegare strategia, processi e risultati in modo chiaro e misurabile. Se hai bisogno di ulteriori chiarimenti, fammi sapere!

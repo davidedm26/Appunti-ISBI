@@ -1,0 +1,59 @@
+# Dispensa Approfondita: Catena del Valore di Porter e Modelli di Anthony e Simon
+
+## Catena del Valore di Porter
+
+La **catena del valore** è un modello che descrive la struttura di un’organizzazione come un insieme di processi. Questo modello, teorizzato da Michael Porter nel 1985 nel libro *Competitive Advantage: Creating and Sustaining Superior Performance*, suddivide un’organizzazione in nove processi: cinque primari e quattro di supporto.
+
+### I Processi Primari
+
+I processi primari contribuiscono direttamente alla creazione di prodotti o servizi. Sono:
+
+1. **Logistica in ingresso (o interna)**: Gestione dei flussi di beni materiali verso l’interno dell’organizzazione per alimentare le attività operative.
+2. **Attività operative (operations)**: Produzione di beni e/o servizi.
+3. **Logistica in uscita (o esterna)**: Gestione dei flussi di beni materiali verso l’esterno, portando i prodotti sul mercato.
+4. **Marketing e vendite**: Promozione dei prodotti o servizi e gestione del processo di vendita.
+5. **Assistenza al cliente e servizi**: Attività post-vendita di supporto al cliente, come l’assistenza tecnica.
+
+### I Processi di Supporto
+
+I processi di supporto non creano direttamente prodotti o servizi, ma sono essenziali per il loro funzionamento. Sono:
+
+1. **Approvvigionamenti**: Acquisto delle risorse necessarie alla produzione e al funzionamento dell’organizzazione.
+2. **Gestione delle risorse umane**: Ricerca, selezione, formazione, sviluppo e gestione del personale.
+3. **Sviluppo delle tecnologie**: Attività di miglioramento dei prodotti e dei processi, spesso identificate con la ricerca e sviluppo (R&D).
+4. **Attività infrastrutturali**: Pianificazione, contabilità, organizzazione, informatica, affari legali e direzione generale.
+
+### Limiti del Modello
+
+Il modello di Porter è utile per analizzare i processi aziendali, ma può risultare troppo rigido per organizzazioni moderne o complesse.
+
+---
+
+## Modelli di Anthony e Simon
+
+Questi modelli si basano sull’idea che un sistema informativo (SI) debba essere strutturato in base alle diverse attività svolte in azienda.
+
+### Modello di Anthony
+
+Il modello di Anthony suddivide le attività aziendali in tre livelli:
+
+1. **Attività strategiche**: Pianificazione a medio-lungo termine, basata su obiettivi, risorse e politiche. Richiede analisi, intuito e dati esterni (es. analisi di mercato).
+2. **Attività tattiche**: Programmazione e controllo delle risorse per raggiungere gli obiettivi. Sono attività ripetitive e orientate all’interno dell’azienda.
+3. **Attività operative**: Esecuzione delle operazioni quotidiane. Sono attività molto ripetitive, con margine decisionale ridotto e legate al tempo.
+
+#### Informazioni Necessarie
+
+- **Strategiche**: Dati esterni, prospettici e non omogenei.
+- **Tattiche**: Dati sistematici e ripetibili.
+- **Operative**: Dati esatti, analitici e in tempo reale.
+
+### Modello di Simon
+
+Il modello di Simon distingue due tipi di sistemi informativi:
+
+1. **Sistema informativo operativo**: Supporta le attività operative e strutturate.
+2. **Sistema informativo direzionale**: Supporta la programmazione, il controllo e le decisioni strategiche.
+
+### Conclusione
+
+Entrambi i modelli evidenziano che un sistema informativo aziendale deve essere suddiviso in sottosistemi per rispondere alle esigenze specifiche delle attività che supporta. Questo approccio garantisce che ogni livello organizzativo disponga delle informazioni necessarie per operare in modo efficace.
